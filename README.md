@@ -1,4 +1,4 @@
-# AlmondGPT — End-to-End LLM Alignment from Scratch
+# AlmondGPT — End-to-End GPT Alignment from Scratch
 
 > *Small like an almond. Built to understand, not to impress.*
 
